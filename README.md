@@ -1,5 +1,7 @@
 ## Helix Medical Center Data Portal
-- **Team Members:**
+This is a Mini Project for the course SECB3213 Bioinformatics Database.
+
+- **Group 3 Team Members:**
     | No. | Name | Metric No. |
     | --- | --- | --- |
     | 1. | ALDANISHA MUADZ BINTI MUZAFFAR | A23CS0039 |
