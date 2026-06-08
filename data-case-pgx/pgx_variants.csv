@@ -1,0 +1,41 @@
+variant_id,panel_id,gene_symbol,hgvs_notation,rsid,chromosome,position,ref_allele,alt_allele,variant_type,zygosity_expected,clinical_significance,associated_condition,inheritance_pattern,evidence_level,created_at
+VAR-000001,PNL-000101,TP53,c.101A>G,rs1800372,17,7677572,A,G,SNV,Heterozygous,Benign,Li-Fraumeni syndrome / multiple cancers,Autosomal dominant,4,2021-07-01
+VAR-000002,PNL-000101,MSH2,c.1147G>A,rs17217723,2,47705618,G,A,SNV,Heterozygous,Variant of Uncertain Significance (VUS),Lynch syndrome / colorectal cancer,Autosomal dominant,3,2020-05-13
+VAR-000003,PNL-000101,EGFR,c.3367G>A,rs10251977,7,55273413,G,A,SNV,Heterozygous,Likely benign,Non-small cell lung cancer,Not applicable,4,2022-06-12
+VAR-000004,PNL-000101,MLH1,c.790+1G>A,rs267607897,3,37006989,G,A,SNV,Homozygous,Likely pathogenic,Lynch syndrome / colorectal cancer,Autosomal dominant,2A,2022-10-31
+VAR-000005,PNL-000101,BRCA2,c.9976A>T,rs28897743,13,32953453,A,T,SNV,Heterozygous,Pathogenic,Hereditary breast and ovarian cancer,Autosomal dominant,1A,2020-08-03
+VAR-000006,PNL-000201,CYP2C9,c.430C>T,rs1799853,10,94942290,C,T,SNV,Homozygous,Pathogenic,Altered warfarin / NSAID metabolism,Autosomal recessive,1A,2019-10-10
+VAR-000007,PNL-000201,CYP2D6,c.1707delT,rs5030655,22,42525568,T,del,Indel,Heterozygous,Pathogenic,Poor CYP2D6 drug metabolism,Autosomal recessive,1A,2019-07-06
+VAR-000008,PNL-000201,CYP2C19,c.991A>G,rs7902257,10,94780852,A,G,SNV,Heterozygous,Benign,Altered clopidogrel / PPI metabolism,Autosomal recessive,4,2020-05-20
+VAR-000009,PNL-000201,VKORC1,c.173+1000C>T,rs17880887,16,31097350,C,T,SNV,Homozygous,Likely pathogenic,Warfarin sensitivity,Autosomal dominant,2A,2020-12-30
+VAR-000010,PNL-000201,SLCO1B1,c.521T>C,rs4149056,12,21178615,T,C,SNV,Homozygous,Pathogenic,Statin-induced myopathy,Autosomal recessive,1A,2020-11-28
+VAR-000011,PNL-000301,TPMT,c.719A>G,rs1800460,6,18141839,A,G,SNV,Heterozygous,Pathogenic,Thiopurine myelosuppression,Autosomal recessive,1A,2022-01-04
+VAR-000012,PNL-000301,TPMT,c.238G>C,rs1142345,6,18145347,G,C,SNV,Homozygous,Pathogenic,Thiopurine myelosuppression,Autosomal recessive,1A,2021-05-04
+VAR-000013,PNL-000301,DPYD,c.1679T>G,rs55886062,1,97981395,T,G,SNV,Heterozygous,Pathogenic,Fluoropyrimidine toxicity,Autosomal recessive,1A,2018-03-17
+VAR-000014,PNL-000301,DPYD,c.1905+1G>A,rs3918290,1,97915614,G,A,SNV,Heterozygous,Pathogenic,Fluoropyrimidine toxicity,Autosomal recessive,1A,2018-12-17
+VAR-000015,PNL-000301,CYP2D6,c.1707delT,rs5030655,22,42525568,T,del,Indel,Homozygous,Pathogenic,Poor CYP2D6 drug metabolism,Autosomal recessive,1A,2018-06-16
+VAR-000016,PNL-000401,KCNQ1,c.1032delC,rs199472955,11,2552453,C,del,Indel,Homozygous,Pathogenic,Long QT syndrome,Autosomal dominant,1A,2019-11-07
+VAR-000017,PNL-000401,KCNQ1,c.1781G>A,,11,2572695,G,A,SNV,Homozygous,Likely pathogenic,Long QT syndrome,Autosomal dominant,2B,2019-02-16
+VAR-000018,PNL-000401,CYP2C19,c.681G>A,rs4244285,10,94781859,G,A,SNV,Heterozygous,Pathogenic,Altered clopidogrel / PPI metabolism,Autosomal recessive,1A,2020-06-26
+VAR-000019,PNL-000401,CYP2C19,c.1228C>T,,10,94780483,C,T,SNV,Homozygous,Variant of Uncertain Significance (VUS),Altered clopidogrel / PPI metabolism,Autosomal recessive,3,2022-08-17
+VAR-000020,PNL-000401,SLCO1B1,c.463C>A,rs11045819,12,21139455,C,A,SNV,Homozygous,Likely pathogenic,Statin-induced myopathy,Autosomal recessive,1B,2021-11-24
+VAR-000021,PNL-000501,KRAS,c.22G>A,rs112445441,12,25227356,G,A,SNV,Homozygous,Likely benign,Colorectal / lung / pancreatic cancer,Not applicable,4,2018-09-12
+VAR-000022,PNL-000501,MLH1,c.1852_1853delAA,rs63751710,3,37053556,AA,del,Indel,Heterozygous,Pathogenic,Lynch syndrome / colorectal cancer,Autosomal dominant,1A,2018-10-22
+VAR-000023,PNL-000501,MSH2,c.2006-1G>A,,2,47763279,G,A,SNV,Heterozygous,Likely pathogenic,Lynch syndrome / colorectal cancer,Autosomal dominant,2A,2018-12-30
+VAR-000024,PNL-000501,MLH1,c.384G>A,rs35026790,3,36993527,G,A,SNV,Heterozygous,Benign,Lynch syndrome / colorectal cancer,Autosomal dominant,4,2019-03-02
+VAR-000025,PNL-000501,MSH2,c.1147G>A,rs17217723,2,47705618,G,A,SNV,Homozygous,Variant of Uncertain Significance (VUS),Lynch syndrome / colorectal cancer,Autosomal dominant,3,2022-06-23
+VAR-000026,PNL-000601,CYP2D6,c.1023C>T,rs35742686,22,42524946,C,T,SNV,Heterozygous,Pathogenic,Poor CYP2D6 drug metabolism,Autosomal recessive,1A,2020-10-23
+VAR-000027,PNL-000601,SCN5A,c.5350G>A,rs199473523,3,38679516,G,A,SNV,Heterozygous,Pathogenic,Long QT syndrome / Brugada syndrome,Autosomal dominant,1B,2021-04-14
+VAR-000028,PNL-000601,G6PD,c.202G>A,rs1050828,X,154535002,G,A,SNV,Hemizygous,Pathogenic,Glucose-6-phosphate dehydrogenase deficiency,X-linked,1A,2019-03-20
+VAR-000029,PNL-000601,G6PD,c.1160G>A,rs1001179,X,154551402,G,A,SNV,Hemizygous,Benign,Glucose-6-phosphate dehydrogenase deficiency,X-linked,4,2019-11-21
+VAR-000030,PNL-000601,TPMT,c.143G>A,,6,18148460,G,A,SNV,Homozygous,Variant of Uncertain Significance (VUS),Thiopurine myelosuppression,Autosomal recessive,3,2020-04-28
+VAR-000031,PNL-000701,TP53,c.524G>A,rs28934574,17,7675088,G,A,SNV,Homozygous,Likely pathogenic,Li-Fraumeni syndrome / multiple cancers,Autosomal dominant,1B,2022-04-28
+VAR-000032,PNL-000701,BRCA2,c.3036_3039del,rs80358981,13,32911427,ACAA,del,Indel,Heterozygous,Likely pathogenic,Hereditary breast and ovarian cancer,Autosomal dominant,1B,2019-09-30
+VAR-000033,PNL-000701,BRCA1,c.3700_3704del,rs80357507,17,41258505,ATCTT,del,Indel,Homozygous,Pathogenic,Hereditary breast and ovarian cancer,Autosomal dominant,1A,2018-08-05
+VAR-000034,PNL-000701,BRCA1,c.4986+6T>C,,17,41244936,T,C,SNV,Heterozygous,Variant of Uncertain Significance (VUS),Hereditary breast and ovarian cancer,Autosomal dominant,3,2022-04-14
+VAR-000035,PNL-000701,TP53,c.733G>A,rs28934573,17,7674220,G,A,SNV,Homozygous,Pathogenic,Li-Fraumeni syndrome / multiple cancers,Autosomal dominant,1A,2019-08-30
+VAR-000036,PNL-000801,KRAS,c.35G>T,rs121913529,12,25227343,G,T,SNV,Homozygous,Pathogenic,Colorectal / lung / pancreatic cancer,Not applicable,1A,2021-11-03
+VAR-000037,PNL-000801,KRAS,c.183A>T,,12,25245277,A,T,SNV,Homozygous,Variant of Uncertain Significance (VUS),Colorectal / lung / pancreatic cancer,Not applicable,3,2020-12-28
+VAR-000038,PNL-000801,ERBB2,c.1255G>C,,17,37869987,G,C,SNV,Homozygous,Likely pathogenic,Breast cancer HER2 overexpression,Not applicable,1B,2020-06-01
+VAR-000039,PNL-000801,TP53,c.524G>A,rs28934574,17,7675088,G,A,SNV,Homozygous,Likely pathogenic,Li-Fraumeni syndrome / multiple cancers,Autosomal dominant,1B,2021-09-10
+VAR-000040,PNL-000801,MLH1,c.384G>A,rs35026790,3,36993527,G,A,SNV,Heterozygous,Benign,Lynch syndrome / colorectal cancer,Autosomal dominant,4,2019-08-02

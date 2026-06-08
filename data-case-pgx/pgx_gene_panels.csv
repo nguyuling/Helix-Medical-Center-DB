@@ -1,0 +1,9 @@
+panel_id,panel_name,panel_type,version,status,target_genes,turnaround_days,ordering_sites,manufacturer,regulatory_clearance,clinical_utility,created_at
+PNL-000101,Comprehensive Oncology Panel,Oncology,v3.1,Active,BRCA1|BRCA2|TP53|EGFR|KRAS|ALK|ERBB2|MLH1|MSH2,7,SITE-01|SITE-02|SITE-03|SITE-04,HMC In-house,CE-IVD,Guide targeted therapy selection in solid tumours,2020-04-07
+PNL-000201,CYP Metaboliser Panel,Pharmacogenomics,v2.0,Active,CYP2D6|CYP2C19|CYP2C9|VKORC1|SLCO1B1,5,SITE-01|SITE-02|SITE-03|SITE-04|SITE-05,Illumina,FDA-cleared,Optimise drug dosing for common metaboliser variants,2020-02-19
+PNL-000301,Fluoropyrimidine Toxicity Panel,Pharmacogenomics,v1.2,Active,DPYD|TPMT|CYP2D6,5,SITE-01|SITE-03|SITE-05,Myriad Genetics,CE-IVD,Identify patients at risk of severe fluoropyrimidine toxicity,2019-02-14
+PNL-000401,Cardiology Risk Panel,Cardiology,v2.3,Active,SCN5A|KCNQ1|CYP2C19|VKORC1|SLCO1B1,10,SITE-02|SITE-04,Foundation Medicine,CE-IVD,Assess inherited cardiac arrhythmia risk and anticoagulant response,2021-05-12
+PNL-000501,Lynch Syndrome Panel,Oncology,v1.0,Active,MLH1|MSH2|TP53|KRAS,14,SITE-01|SITE-02|SITE-05,HMC In-house,Research Use Only,Screen for hereditary colorectal cancer predisposition,2019-01-02
+PNL-000601,Rare Disease Genomics Panel,Rare Disease,v1.1,Active,CFTR|G6PD|TPMT|CYP2D6|SCN5A,21,SITE-03|SITE-04,Roche,CE-IVD,Support diagnosis and management of select rare genetic conditions,2019-04-17
+PNL-000701,BRCA Hereditary Cancer Panel,Oncology,v2.0,Deprecated,BRCA1|BRCA2|TP53,10,SITE-01|SITE-02,Myriad Genetics,FDA-cleared,Hereditary breast and ovarian cancer risk assessment — superseded by Comprehensive Oncology Panel,2019-05-24
+PNL-000801,Immunotherapy Response Panel,Oncology,v1.0,Under Review,TP53|KRAS|EGFR|MSH2|MLH1|ERBB2,14,SITE-01|SITE-05,Foundation Medicine,Research Use Only,Predict response to checkpoint inhibitor immunotherapy,2018-09-30

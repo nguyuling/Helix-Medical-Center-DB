@@ -1,0 +1,201 @@
+response_id,patient_id,panel_id,variant_id,drug_name,drug_class,response_type,outcome,phenotype_observed,ctcae_grade,recommendation,evidence_source,reported_by,reported_on,created_at
+DR-00000001,PT-001001,PNL-000101,VAR-000003,Gefitinib,Targeted therapy,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,FDA label,Cardiologist,2022-05-28,2022-05-28
+DR-00000002,PT-001001,PNL-000401,VAR-000018,Voriconazole,Anticoagulant,Dosing,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,PharmGKB,Oncologist,2024-07-11,2024-07-11
+DR-00000003,PT-001001,PNL-000101,VAR-000005,Olaparib,Targeted therapy,Efficacy,Normal metaboliser,Expected plasma levels,,Standard dosing applies,DPWG guideline,Cardiologist,2024-07-13,2024-07-13
+DR-00000004,PT-001001,PNL-000401,VAR-000018,Clopidogrel,Anticoagulant,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,PharmGKB,Clinical pharmacist,2023-08-26,2023-08-26
+DR-00000005,PT-001002,PNL-000401,VAR-000016,Sotalol,Other,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,DPWG guideline,Oncologist,2023-08-26,2023-08-26
+DR-00000006,PT-001002,PNL-000201,VAR-000010,Pravastatin,Other,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,PharmGKB,Cardiologist,2024-08-28,2024-08-28
+DR-00000007,PT-001002,PNL-000401,VAR-000017,Amiodarone,Other,Toxicity,Adverse reaction,Peripheral neuropathy,3,Discontinue and switch to alternative,Institutional protocol,Sponsor,2024-11-21,2024-11-21
+DR-00000008,PT-001002,PNL-000701,VAR-000032,Trastuzumab,Targeted therapy,Efficacy,Ultra-rapid metaboliser,Subtherapeutic plasma levels,,Consider alternative agent,CPIC guideline,Geneticist,2024-09-08,2024-09-08
+DR-00000009,PT-001003,PNL-000201,VAR-000008,Omeprazole,Anticoagulant,Toxicity,Increased sensitivity,Severe mucositis,2,Avoid use — select alternative,CPIC guideline,Clinical pharmacist,2020-12-13,2020-12-13
+DR-00000010,PT-001003,PNL-000801,VAR-000036,Panitumumab,Targeted therapy,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,PharmGKB,Geneticist,2022-03-23,2022-03-23
+DR-00000011,PT-001003,PNL-000501,VAR-000024,Irinotecan,Chemotherapy,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,Institutional protocol,Sponsor,2023-04-01,2023-04-01
+DR-00000012,PT-001004,PNL-000401,VAR-000016,Sotalol,Other,Efficacy,Reduced efficacy,Resistance,,Increase dose or switch agent,Institutional protocol,Cardiologist,2021-06-06,2021-06-06
+DR-00000013,PT-001004,PNL-000401,VAR-000018,Voriconazole,Anticoagulant,Toxicity,Adverse reaction,Grade 2 hepatotoxicity,1,Discontinue and switch to alternative,PharmGKB,Oncologist,2022-09-18,2022-09-18
+DR-00000014,PT-001004,PNL-000401,VAR-000016,Sotalol,Other,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,PharmGKB,Clinical pharmacist,2021-10-16,2021-10-16
+DR-00000015,PT-001004,PNL-000201,VAR-000008,Omeprazole,Anticoagulant,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,CPIC guideline,Geneticist,2022-03-04,2022-03-04
+DR-00000016,PT-001005,PNL-000501,VAR-000023,Pembrolizumab,Chemotherapy,Toxicity,Increased sensitivity,Bleeding event,4,Avoid use — select alternative,CPIC guideline,Sponsor,2021-09-30,2021-09-30
+DR-00000017,PT-001005,PNL-000501,VAR-000024,Fluorouracil,Chemotherapy,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,DPWG guideline,Cardiologist,2023-08-25,2023-08-25
+DR-00000018,PT-001005,PNL-000501,VAR-000024,Fluorouracil,Chemotherapy,Dosing,Standard response,No adverse events noted,,Standard dosing applies,Institutional protocol,Geneticist,2023-09-30,2023-09-30
+DR-00000019,PT-001006,PNL-000301,VAR-000015,Paroxetine,Analgesic,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,PharmGKB,Geneticist,2023-08-07,2023-08-07
+DR-00000020,PT-001006,PNL-000501,VAR-000022,Irinotecan,Chemotherapy,Toxicity,Adverse reaction,Severe skin reaction,1,Discontinue and switch to alternative,FDA label,Clinical pharmacist,2021-08-18,2021-08-18
+DR-00000021,PT-001006,PNL-000301,VAR-000015,Codeine,Analgesic,Toxicity,Adverse reaction,Severe skin reaction,3,Discontinue and switch to alternative,DPWG guideline,Clinical pharmacist,2021-09-23,2021-09-23
+DR-00000022,PT-001006,PNL-000301,VAR-000014,Fluorouracil,Chemotherapy,Efficacy,Standard response,Expected efficacy,,Standard dosing applies,FDA label,Geneticist,2023-08-27,2023-08-27
+DR-00000023,PT-001007,PNL-000401,VAR-000018,Clopidogrel,Anticoagulant,Efficacy,Normal metaboliser,Expected plasma levels,,Standard dosing applies,DPWG guideline,Sponsor,2020-07-27,2020-07-27
+DR-00000024,PT-001007,PNL-000401,VAR-000018,Clopidogrel,Anticoagulant,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,FDA label,Sponsor,2023-09-07,2023-09-07
+DR-00000025,PT-001007,PNL-000601,VAR-000026,Codeine,Analgesic,Efficacy,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,FDA label,Geneticist,2023-10-14,2023-10-14
+DR-00000026,PT-001008,PNL-000601,VAR-000030,Thiopurine,Immunosuppressant,Efficacy,Ultra-rapid metaboliser,Subtherapeutic plasma levels,,Consider alternative agent,FDA label,Geneticist,2023-04-07,2023-04-07
+DR-00000027,PT-001008,PNL-000601,VAR-000027,Flecainide,Other,Dosing,Standard response,Expected efficacy,,Standard dosing applies,CPIC guideline,Clinical pharmacist,2023-12-06,2023-12-06
+DR-00000028,PT-001008,PNL-000301,VAR-000013,Fluorouracil,Chemotherapy,Toxicity,Adverse reaction,Severe skin reaction,1,Discontinue and switch to alternative,FDA label,Sponsor,2024-07-01,2024-07-01
+DR-00000029,PT-001009,PNL-000301,VAR-000013,Fluorouracil,Chemotherapy,Efficacy,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,PharmGKB,Cardiologist,2023-04-27,2023-04-27
+DR-00000030,PT-001009,PNL-000201,VAR-000006,Warfarin,Anticoagulant,Toxicity,Adverse reaction,Severe skin reaction,2,Discontinue and switch to alternative,PharmGKB,Cardiologist,2024-01-22,2024-01-22
+DR-00000031,PT-001009,PNL-000801,VAR-000040,Fluorouracil,Chemotherapy,Efficacy,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,CPIC guideline,Clinical pharmacist,2024-07-01,2024-07-01
+DR-00000032,PT-001010,PNL-000101,VAR-000005,Trastuzumab,Targeted therapy,Toxicity,Adverse reaction,Grade 2 hepatotoxicity,4,Discontinue and switch to alternative,PharmGKB,Cardiologist,2021-01-26,2021-01-26
+DR-00000033,PT-001010,PNL-000101,VAR-000005,Tamoxifen,Targeted therapy,Dosing,Poor metaboliser,Drug accumulation,,Reduce dose by 50%,FDA label,Clinical pharmacist,2022-09-06,2022-09-06
+DR-00000034,PT-001010,PNL-000101,VAR-000002,Fluorouracil,Chemotherapy,Toxicity,Adverse reaction,Grade 2 hepatotoxicity,4,Discontinue and switch to alternative,Institutional protocol,Cardiologist,2023-04-05,2023-04-05
+DR-00000035,PT-001010,PNL-000701,VAR-000031,Fluorouracil,Chemotherapy,Dosing,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,FDA label,Cardiologist,2022-03-19,2022-03-19
+DR-00000036,PT-001011,PNL-000301,VAR-000012,Mercaptopurine,Immunosuppressant,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,PharmGKB,Geneticist,2020-10-07,2020-10-07
+DR-00000037,PT-001011,PNL-000401,VAR-000017,Amiodarone,Other,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,DPWG guideline,Oncologist,2023-04-10,2023-04-10
+DR-00000038,PT-001011,PNL-000301,VAR-000012,Azathioprine,Immunosuppressant,Efficacy,Normal metaboliser,Normal clearance,,Standard dosing applies,CPIC guideline,Clinical pharmacist,2024-03-29,2024-03-29
+DR-00000039,PT-001012,PNL-000301,VAR-000012,Thiopurine,Immunosuppressant,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,FDA label,Geneticist,2024-05-02,2024-05-02
+DR-00000040,PT-001012,PNL-000101,VAR-000005,Tamoxifen,Targeted therapy,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,DPWG guideline,Clinical pharmacist,2024-09-27,2024-09-27
+DR-00000041,PT-001012,PNL-000801,VAR-000037,Panitumumab,Targeted therapy,Efficacy,Standard response,Expected efficacy,,Standard dosing applies,CPIC guideline,Cardiologist,2024-03-24,2024-03-24
+DR-00000042,PT-001013,PNL-000301,VAR-000014,Capecitabine,Chemotherapy,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,DPWG guideline,Geneticist,2023-09-18,2023-09-18
+DR-00000043,PT-001013,PNL-000301,VAR-000013,Fluorouracil,Chemotherapy,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,Institutional protocol,Oncologist,2024-05-10,2024-05-10
+DR-00000044,PT-001013,PNL-000701,VAR-000033,Tamoxifen,Targeted therapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,PharmGKB,Sponsor,2022-09-11,2022-09-11
+DR-00000045,PT-001013,PNL-000301,VAR-000012,Azathioprine,Immunosuppressant,Toxicity,Increased sensitivity,Grade 3 myelosuppression,4,Avoid use — select alternative,DPWG guideline,Sponsor,2023-09-01,2023-09-01
+DR-00000046,PT-001014,PNL-000101,VAR-000003,Osimertinib,Targeted therapy,Toxicity,Increased sensitivity,Grade 3 myelosuppression,1,Avoid use — select alternative,DPWG guideline,Geneticist,2023-11-26,2023-11-26
+DR-00000047,PT-001014,PNL-000401,VAR-000016,Amiodarone,Other,Toxicity,Adverse reaction,Peripheral neuropathy,3,Discontinue and switch to alternative,DPWG guideline,Geneticist,2023-06-04,2023-06-04
+DR-00000048,PT-001014,PNL-000101,VAR-000003,Gefitinib,Targeted therapy,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,Institutional protocol,Geneticist,2024-05-07,2024-05-07
+DR-00000049,PT-001015,PNL-000701,VAR-000032,Olaparib,Targeted therapy,Efficacy,Standard response,No adverse events noted,,Standard dosing applies,DPWG guideline,Oncologist,2023-04-08,2023-04-08
+DR-00000050,PT-001015,PNL-000101,VAR-000003,Gefitinib,Targeted therapy,Dosing,Ultra-rapid metaboliser,Subtherapeutic plasma levels,,Consider alternative agent,Institutional protocol,Cardiologist,2021-01-05,2021-01-05
+DR-00000051,PT-001015,PNL-000601,VAR-000029,Primaquine,Other,Toxicity,Increased sensitivity,Severe mucositis,3,Avoid use — select alternative,FDA label,Cardiologist,2021-03-14,2021-03-14
+DR-00000052,PT-001016,PNL-000501,VAR-000023,Pembrolizumab,Chemotherapy,Toxicity,Poor metaboliser,Elevated plasma drug levels,3,Reduce dose by 50%,Institutional protocol,Clinical pharmacist,2021-08-25,2021-08-25
+DR-00000053,PT-001016,PNL-000501,VAR-000021,Panitumumab,Targeted therapy,Dosing,Ultra-rapid metaboliser,Subtherapeutic plasma levels,,Consider alternative agent,DPWG guideline,Clinical pharmacist,2019-09-26,2019-09-26
+DR-00000054,PT-001016,PNL-000701,VAR-000032,Trastuzumab,Targeted therapy,Toxicity,Increased sensitivity,Grade 3 myelosuppression,1,Avoid use — select alternative,CPIC guideline,Cardiologist,2024-05-16,2024-05-16
+DR-00000055,PT-001017,PNL-000101,VAR-000002,Pembrolizumab,Chemotherapy,Dosing,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,Institutional protocol,Clinical pharmacist,2024-07-07,2024-07-07
+DR-00000056,PT-001017,PNL-000101,VAR-000005,Olaparib,Targeted therapy,Dosing,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,FDA label,Oncologist,2024-11-06,2024-11-06
+DR-00000057,PT-001017,PNL-000101,VAR-000004,Fluorouracil,Chemotherapy,Toxicity,Poor metaboliser,Elevated plasma drug levels,4,Reduce dose by 50%,FDA label,Cardiologist,2024-07-22,2024-07-22
+DR-00000058,PT-001017,PNL-000101,VAR-000001,Irinotecan,Chemotherapy,Efficacy,Standard response,Expected efficacy,,Standard dosing applies,PharmGKB,Oncologist,2024-05-15,2024-05-15
+DR-00000059,PT-001018,PNL-000201,VAR-000006,Celecoxib,Anticoagulant,Dosing,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,DPWG guideline,Sponsor,2024-08-23,2024-08-23
+DR-00000060,PT-001018,PNL-000201,VAR-000006,Phenytoin,Anticoagulant,Toxicity,Poor metaboliser,Elevated plasma drug levels,2,Reduce dose by 50%,DPWG guideline,Geneticist,2023-11-15,2023-11-15
+DR-00000061,PT-001018,PNL-000201,VAR-000007,Codeine,Analgesic,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,Institutional protocol,Cardiologist,2023-05-28,2023-05-28
+DR-00000062,PT-001018,PNL-000201,VAR-000010,Atorvastatin,Other,Toxicity,Increased sensitivity,Grade 3 myelosuppression,2,Avoid use — select alternative,PharmGKB,Sponsor,2023-01-21,2023-01-21
+DR-00000063,PT-001019,PNL-000601,VAR-000027,Flecainide,Other,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,Institutional protocol,Cardiologist,2021-11-02,2021-11-02
+DR-00000064,PT-001019,PNL-000601,VAR-000029,Rasburicase,Other,Dosing,Standard response,No adverse events noted,,Standard dosing applies,PharmGKB,Oncologist,2023-07-20,2023-07-20
+DR-00000065,PT-001019,PNL-000601,VAR-000030,Thiopurine,Immunosuppressant,Efficacy,Normal metaboliser,Normal clearance,,Standard dosing applies,DPWG guideline,Clinical pharmacist,2022-06-23,2022-06-23
+DR-00000066,PT-001019,PNL-000201,VAR-000009,Warfarin,Anticoagulant,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,DPWG guideline,Geneticist,2022-04-12,2022-04-12
+DR-00000067,PT-001020,PNL-000401,VAR-000018,Clopidogrel,Anticoagulant,Efficacy,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,Institutional protocol,Sponsor,2023-05-11,2023-05-11
+DR-00000068,PT-001020,PNL-000101,VAR-000004,Fluorouracil,Chemotherapy,Efficacy,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,Institutional protocol,Clinical pharmacist,2021-05-03,2021-05-03
+DR-00000069,PT-001020,PNL-000401,VAR-000020,Atorvastatin,Other,Dosing,Standard response,Expected efficacy,,Standard dosing applies,PharmGKB,Cardiologist,2023-11-27,2023-11-27
+DR-00000070,PT-001020,PNL-000101,VAR-000005,Trastuzumab,Targeted therapy,Efficacy,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,PharmGKB,Clinical pharmacist,2022-09-08,2022-09-08
+DR-00000071,PT-001021,PNL-000701,VAR-000032,Tamoxifen,Targeted therapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,Institutional protocol,Oncologist,2023-02-03,2023-02-03
+DR-00000072,PT-001021,PNL-000701,VAR-000031,Irinotecan,Chemotherapy,Toxicity,Adverse reaction,Grade 2 hepatotoxicity,3,Discontinue and switch to alternative,DPWG guideline,Cardiologist,2019-11-24,2019-11-24
+DR-00000073,PT-001021,PNL-000701,VAR-000031,Irinotecan,Chemotherapy,Dosing,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,Institutional protocol,Geneticist,2020-11-18,2020-11-18
+DR-00000074,PT-001022,PNL-000101,VAR-000002,Fluorouracil,Chemotherapy,Dosing,Ultra-rapid metaboliser,Subtherapeutic plasma levels,,Consider alternative agent,DPWG guideline,Clinical pharmacist,2023-11-18,2023-11-18
+DR-00000075,PT-001022,PNL-000101,VAR-000001,Irinotecan,Chemotherapy,Efficacy,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,Institutional protocol,Cardiologist,2023-03-11,2023-03-11
+DR-00000076,PT-001022,PNL-000101,VAR-000004,Irinotecan,Chemotherapy,Dosing,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,Institutional protocol,Sponsor,2024-04-19,2024-04-19
+DR-00000077,PT-001022,PNL-000101,VAR-000002,Fluorouracil,Chemotherapy,Toxicity,Increased sensitivity,Severe mucositis,2,Avoid use — select alternative,Institutional protocol,Geneticist,2023-01-08,2023-01-08
+DR-00000078,PT-001023,PNL-000301,VAR-000013,Fluorouracil,Chemotherapy,Dosing,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,PharmGKB,Geneticist,2022-06-14,2022-06-14
+DR-00000079,PT-001023,PNL-000801,VAR-000037,Panitumumab,Targeted therapy,Toxicity,Increased sensitivity,Severe mucositis,2,Avoid use — select alternative,PharmGKB,Oncologist,2022-05-18,2022-05-18
+DR-00000080,PT-001023,PNL-000801,VAR-000040,Fluorouracil,Chemotherapy,Toxicity,Increased sensitivity,Grade 3 myelosuppression,3,Avoid use — select alternative,Institutional protocol,Cardiologist,2024-07-28,2024-07-28
+DR-00000081,PT-001023,PNL-000301,VAR-000014,Fluorouracil,Chemotherapy,Efficacy,Standard response,Expected efficacy,,Standard dosing applies,Institutional protocol,Geneticist,2023-05-18,2023-05-18
+DR-00000082,PT-001024,PNL-000601,VAR-000029,Dapsone,Other,Dosing,Poor metaboliser,Elevated plasma drug levels,,Reduce dose by 50%,CPIC guideline,Sponsor,2023-08-20,2023-08-20
+DR-00000083,PT-001024,PNL-000601,VAR-000030,Azathioprine,Immunosuppressant,Toxicity,Adverse reaction,Severe skin reaction,4,Discontinue and switch to alternative,FDA label,Sponsor,2022-10-23,2022-10-23
+DR-00000084,PT-001024,PNL-000601,VAR-000026,Codeine,Analgesic,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,PharmGKB,Geneticist,2024-08-16,2024-08-16
+DR-00000085,PT-001024,PNL-000601,VAR-000026,Codeine,Analgesic,Dosing,Poor metaboliser,Drug accumulation,,Reduce dose by 50%,Institutional protocol,Sponsor,2023-12-06,2023-12-06
+DR-00000086,PT-001025,PNL-000701,VAR-000033,Rucaparib,Targeted therapy,Toxicity,Increased sensitivity,Bleeding event,4,Avoid use — select alternative,Institutional protocol,Geneticist,2024-03-25,2024-03-25
+DR-00000087,PT-001025,PNL-000701,VAR-000033,Olaparib,Targeted therapy,Efficacy,Normal metaboliser,Normal clearance,,Standard dosing applies,FDA label,Geneticist,2024-09-04,2024-09-04
+DR-00000088,PT-001025,PNL-000701,VAR-000032,Trastuzumab,Targeted therapy,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,Institutional protocol,Clinical pharmacist,2024-06-17,2024-06-17
+DR-00000089,PT-001026,PNL-000501,VAR-000023,Pembrolizumab,Chemotherapy,Dosing,Poor metaboliser,Elevated plasma drug levels,,Reduce dose by 50%,FDA label,Cardiologist,2023-11-02,2023-11-02
+DR-00000090,PT-001026,PNL-000501,VAR-000025,Pembrolizumab,Chemotherapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,Institutional protocol,Oncologist,2024-05-16,2024-05-16
+DR-00000091,PT-001027,PNL-000201,VAR-000006,Celecoxib,Anticoagulant,Dosing,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,PharmGKB,Clinical pharmacist,2022-08-13,2022-08-13
+DR-00000092,PT-001028,PNL-000401,VAR-000016,Sotalol,Other,Toxicity,Adverse reaction,Severe skin reaction,1,Discontinue and switch to alternative,FDA label,Clinical pharmacist,2021-11-06,2021-11-06
+DR-00000093,PT-001028,PNL-000401,VAR-000020,Atorvastatin,Other,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,CPIC guideline,Cardiologist,2024-12-23,2024-12-23
+DR-00000094,PT-001029,PNL-000401,VAR-000017,Amiodarone,Other,Efficacy,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,FDA label,Oncologist,2024-12-09,2024-12-09
+DR-00000095,PT-001030,PNL-000101,VAR-000001,Fluorouracil,Chemotherapy,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,FDA label,Oncologist,2022-03-21,2022-03-21
+DR-00000096,PT-001031,PNL-000601,VAR-000029,Rasburicase,Other,Toxicity,Adverse reaction,Grade 2 hepatotoxicity,1,Discontinue and switch to alternative,PharmGKB,Sponsor,2024-12-07,2024-12-07
+DR-00000097,PT-001031,PNL-000601,VAR-000029,Primaquine,Other,Toxicity,Poor metaboliser,Drug accumulation,1,Reduce dose by 50%,FDA label,Sponsor,2023-10-18,2023-10-18
+DR-00000098,PT-001032,PNL-000301,VAR-000012,Mercaptopurine,Immunosuppressant,Dosing,Normal metaboliser,Expected plasma levels,,Standard dosing applies,Institutional protocol,Oncologist,2023-02-18,2023-02-18
+DR-00000099,PT-001033,PNL-000201,VAR-000009,Warfarin,Anticoagulant,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,PharmGKB,Clinical pharmacist,2024-02-09,2024-02-09
+DR-00000100,PT-001034,PNL-000501,VAR-000021,Cetuximab,Targeted therapy,Toxicity,Increased sensitivity,Bleeding event,3,Avoid use — select alternative,FDA label,Cardiologist,2020-12-18,2020-12-18
+DR-00000101,PT-001035,PNL-000501,VAR-000025,Fluorouracil,Chemotherapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,FDA label,Oncologist,2021-12-28,2021-12-28
+DR-00000102,PT-001035,PNL-000501,VAR-000025,Pembrolizumab,Chemotherapy,Dosing,Normal metaboliser,Expected plasma levels,,Standard dosing applies,PharmGKB,Cardiologist,2024-09-10,2024-09-10
+DR-00000103,PT-001036,PNL-000401,VAR-000020,Simvastatin,Other,Toxicity,Increased sensitivity,Grade 3 myelosuppression,1,Avoid use — select alternative,Institutional protocol,Geneticist,2024-09-08,2024-09-08
+DR-00000104,PT-001037,PNL-000201,VAR-000009,Warfarin,Anticoagulant,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,CPIC guideline,Oncologist,2024-04-06,2024-04-06
+DR-00000105,PT-001037,PNL-000201,VAR-000008,Voriconazole,Anticoagulant,Toxicity,Adverse reaction,Peripheral neuropathy,2,Discontinue and switch to alternative,DPWG guideline,Oncologist,2021-05-18,2021-05-18
+DR-00000106,PT-001038,PNL-000801,VAR-000040,Fluorouracil,Chemotherapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,PharmGKB,Clinical pharmacist,2023-12-08,2023-12-08
+DR-00000107,PT-001038,PNL-000801,VAR-000037,Cetuximab,Targeted therapy,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,DPWG guideline,Sponsor,2023-10-31,2023-10-31
+DR-00000108,PT-001039,PNL-000101,VAR-000001,Fluorouracil,Chemotherapy,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,FDA label,Oncologist,2024-11-13,2024-11-13
+DR-00000109,PT-001039,PNL-000201,VAR-000010,Atorvastatin,Other,Toxicity,Poor metaboliser,Toxicity at standard dose,1,Reduce dose by 50%,Institutional protocol,Cardiologist,2024-02-04,2024-02-04
+DR-00000110,PT-001040,PNL-000701,VAR-000031,Oxaliplatin,Chemotherapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,Institutional protocol,Geneticist,2024-04-12,2024-04-12
+DR-00000111,PT-001040,PNL-000701,VAR-000033,Rucaparib,Targeted therapy,Toxicity,Adverse reaction,Grade 2 hepatotoxicity,2,Discontinue and switch to alternative,Institutional protocol,Sponsor,2024-12-27,2024-12-27
+DR-00000112,PT-001041,PNL-000701,VAR-000031,Fluorouracil,Chemotherapy,Toxicity,Adverse reaction,Severe skin reaction,1,Discontinue and switch to alternative,DPWG guideline,Oncologist,2024-07-30,2024-07-30
+DR-00000113,PT-001042,PNL-000601,VAR-000028,Rasburicase,Other,Dosing,Standard response,Expected efficacy,,Standard dosing applies,DPWG guideline,Cardiologist,2023-09-28,2023-09-28
+DR-00000114,PT-001043,PNL-000701,VAR-000032,Olaparib,Targeted therapy,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,FDA label,Sponsor,2022-10-15,2022-10-15
+DR-00000115,PT-001043,PNL-000601,VAR-000027,Flecainide,Other,Toxicity,Increased sensitivity,Severe mucositis,2,Avoid use — select alternative,PharmGKB,Sponsor,2023-02-19,2023-02-19
+DR-00000116,PT-001044,PNL-000501,VAR-000025,Pembrolizumab,Chemotherapy,Efficacy,Reduced efficacy,Resistance,,Increase dose or switch agent,PharmGKB,Geneticist,2023-05-13,2023-05-13
+DR-00000117,PT-001045,PNL-000301,VAR-000011,Azathioprine,Immunosuppressant,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,DPWG guideline,Cardiologist,2021-08-27,2021-08-27
+DR-00000118,PT-001046,PNL-000801,VAR-000040,Fluorouracil,Chemotherapy,Toxicity,Increased sensitivity,Grade 3 myelosuppression,2,Avoid use — select alternative,PharmGKB,Cardiologist,2023-11-10,2023-11-10
+DR-00000119,PT-001047,PNL-000701,VAR-000034,Tamoxifen,Targeted therapy,Toxicity,Increased sensitivity,Severe mucositis,2,Avoid use — select alternative,CPIC guideline,Cardiologist,2024-11-29,2024-11-29
+DR-00000120,PT-001048,PNL-000401,VAR-000019,Omeprazole,Anticoagulant,Toxicity,Adverse reaction,Severe skin reaction,3,Discontinue and switch to alternative,FDA label,Geneticist,2021-05-01,2021-05-01
+DR-00000121,PT-001048,PNL-000601,VAR-000030,Mercaptopurine,Immunosuppressant,Toxicity,Adverse reaction,Peripheral neuropathy,3,Discontinue and switch to alternative,CPIC guideline,Cardiologist,2022-10-16,2022-10-16
+DR-00000122,PT-001049,PNL-000601,VAR-000028,Primaquine,Other,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,PharmGKB,Oncologist,2022-11-12,2022-11-12
+DR-00000123,PT-001049,PNL-000601,VAR-000030,Mercaptopurine,Immunosuppressant,Dosing,Standard response,No adverse events noted,,Standard dosing applies,CPIC guideline,Cardiologist,2023-10-29,2023-10-29
+DR-00000124,PT-001050,PNL-000401,VAR-000020,Atorvastatin,Other,Dosing,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,DPWG guideline,Oncologist,2023-06-18,2023-06-18
+DR-00000125,PT-001051,PNL-000601,VAR-000030,Thiopurine,Immunosuppressant,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,Institutional protocol,Clinical pharmacist,2024-01-31,2024-01-31
+DR-00000126,PT-001051,PNL-000601,VAR-000026,Amitriptyline,Analgesic,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,Institutional protocol,Oncologist,2022-11-10,2022-11-10
+DR-00000127,PT-001052,PNL-000401,VAR-000019,Omeprazole,Anticoagulant,Dosing,Poor metaboliser,Toxicity at standard dose,,Reduce dose by 50%,PharmGKB,Sponsor,2024-07-26,2024-07-26
+DR-00000128,PT-001052,PNL-000401,VAR-000018,Omeprazole,Anticoagulant,Dosing,Poor metaboliser,Drug accumulation,,Reduce dose by 50%,FDA label,Oncologist,2024-11-24,2024-11-24
+DR-00000129,PT-001053,PNL-000601,VAR-000027,Mexiletine,Other,Toxicity,Adverse reaction,Severe skin reaction,2,Discontinue and switch to alternative,Institutional protocol,Clinical pharmacist,2023-06-06,2023-06-06
+DR-00000130,PT-001053,PNL-000101,VAR-000005,Trastuzumab,Targeted therapy,Efficacy,Standard response,No adverse events noted,,Standard dosing applies,FDA label,Geneticist,2024-05-21,2024-05-21
+DR-00000131,PT-001054,PNL-000601,VAR-000029,Primaquine,Other,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,PharmGKB,Geneticist,2022-10-09,2022-10-09
+DR-00000132,PT-001055,PNL-000301,VAR-000015,Amitriptyline,Analgesic,Dosing,Standard response,Expected efficacy,,Standard dosing applies,FDA label,Oncologist,2021-03-03,2021-03-03
+DR-00000133,PT-001056,PNL-000401,VAR-000016,Sotalol,Other,Efficacy,Reduced efficacy,Resistance,,Increase dose or switch agent,CPIC guideline,Clinical pharmacist,2020-11-16,2020-11-16
+DR-00000134,PT-001057,PNL-000801,VAR-000040,Fluorouracil,Chemotherapy,Toxicity,Increased sensitivity,Grade 3 myelosuppression,2,Avoid use — select alternative,CPIC guideline,Sponsor,2024-01-29,2024-01-29
+DR-00000135,PT-001058,PNL-000301,VAR-000014,Fluorouracil,Chemotherapy,Toxicity,Increased sensitivity,Severe mucositis,2,Avoid use — select alternative,CPIC guideline,Clinical pharmacist,2024-10-30,2024-10-30
+DR-00000136,PT-001058,PNL-000301,VAR-000011,Thiopurine,Immunosuppressant,Toxicity,Poor metaboliser,Elevated plasma drug levels,3,Reduce dose by 50%,CPIC guideline,Clinical pharmacist,2023-05-27,2023-05-27
+DR-00000137,PT-001058,PNL-000301,VAR-000014,Fluorouracil,Chemotherapy,Dosing,Normal metaboliser,Expected plasma levels,,Standard dosing applies,CPIC guideline,Cardiologist,2024-11-28,2024-11-28
+DR-00000138,PT-001059,PNL-000601,VAR-000026,Amitriptyline,Analgesic,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,FDA label,Sponsor,2021-03-03,2021-03-03
+DR-00000139,PT-001060,PNL-000101,VAR-000002,Fluorouracil,Chemotherapy,Dosing,Standard response,No adverse events noted,,Standard dosing applies,Institutional protocol,Sponsor,2021-08-22,2021-08-22
+DR-00000140,PT-001061,PNL-000601,VAR-000030,Mercaptopurine,Immunosuppressant,Efficacy,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,CPIC guideline,Cardiologist,2022-09-06,2022-09-06
+DR-00000141,PT-001061,PNL-000801,VAR-000040,Fluorouracil,Chemotherapy,Toxicity,Poor metaboliser,Toxicity at standard dose,3,Reduce dose by 50%,FDA label,Clinical pharmacist,2019-12-25,2019-12-25
+DR-00000142,PT-001062,PNL-000201,VAR-000010,Simvastatin,Other,Efficacy,Normal metaboliser,Expected plasma levels,,Standard dosing applies,CPIC guideline,Clinical pharmacist,2023-11-08,2023-11-08
+DR-00000143,PT-001063,PNL-000301,VAR-000015,Paroxetine,Analgesic,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,DPWG guideline,Sponsor,2024-10-23,2024-10-23
+DR-00000144,PT-001063,PNL-000301,VAR-000013,Capecitabine,Chemotherapy,Efficacy,Standard response,Expected efficacy,,Standard dosing applies,FDA label,Clinical pharmacist,2024-09-21,2024-09-21
+DR-00000145,PT-001064,PNL-000801,VAR-000039,Fluorouracil,Chemotherapy,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,PharmGKB,Oncologist,2023-04-28,2023-04-28
+DR-00000146,PT-001065,PNL-000101,VAR-000005,Trastuzumab,Targeted therapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,PharmGKB,Cardiologist,2022-03-31,2022-03-31
+DR-00000147,PT-001065,PNL-000101,VAR-000003,Gefitinib,Targeted therapy,Efficacy,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,DPWG guideline,Clinical pharmacist,2022-09-12,2022-09-12
+DR-00000148,PT-001066,PNL-000501,VAR-000024,Irinotecan,Chemotherapy,Efficacy,Normal metaboliser,Expected plasma levels,,Standard dosing applies,CPIC guideline,Geneticist,2024-01-14,2024-01-14
+DR-00000149,PT-001067,PNL-000101,VAR-000005,Tamoxifen,Targeted therapy,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,FDA label,Clinical pharmacist,2022-07-21,2022-07-21
+DR-00000150,PT-001068,PNL-000701,VAR-000032,Tamoxifen,Targeted therapy,Toxicity,Adverse reaction,Severe skin reaction,3,Discontinue and switch to alternative,DPWG guideline,Clinical pharmacist,2024-05-05,2024-05-05
+DR-00000151,PT-001069,PNL-000401,VAR-000016,Amiodarone,Other,Efficacy,Standard response,Expected efficacy,,Standard dosing applies,CPIC guideline,Sponsor,2022-12-04,2022-12-04
+DR-00000152,PT-001069,PNL-000401,VAR-000018,Voriconazole,Anticoagulant,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,PharmGKB,Oncologist,2022-03-11,2022-03-11
+DR-00000153,PT-001069,PNL-000401,VAR-000017,Sotalol,Other,Toxicity,Increased sensitivity,Grade 3 myelosuppression,1,Avoid use — select alternative,DPWG guideline,Cardiologist,2020-09-28,2020-09-28
+DR-00000154,PT-001070,PNL-000501,VAR-000025,Fluorouracil,Chemotherapy,Toxicity,Poor metaboliser,Elevated plasma drug levels,1,Reduce dose by 50%,PharmGKB,Clinical pharmacist,2019-10-21,2019-10-21
+DR-00000155,PT-001071,PNL-000201,VAR-000009,Warfarin,Anticoagulant,Toxicity,Poor metaboliser,Drug accumulation,1,Reduce dose by 50%,DPWG guideline,Clinical pharmacist,2024-10-29,2024-10-29
+DR-00000156,PT-001071,PNL-000201,VAR-000010,Simvastatin,Other,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,Institutional protocol,Sponsor,2023-08-04,2023-08-04
+DR-00000157,PT-001072,PNL-000801,VAR-000038,Pertuzumab,Targeted therapy,Efficacy,Normal metaboliser,Expected plasma levels,,Standard dosing applies,DPWG guideline,Geneticist,2024-04-16,2024-04-16
+DR-00000158,PT-001072,PNL-000801,VAR-000038,Lapatinib,Targeted therapy,Toxicity,Increased sensitivity,Bleeding event,2,Avoid use — select alternative,CPIC guideline,Sponsor,2024-10-26,2024-10-26
+DR-00000159,PT-001073,PNL-000101,VAR-000003,Gefitinib,Targeted therapy,Dosing,Poor metaboliser,Drug accumulation,,Reduce dose by 50%,Institutional protocol,Oncologist,2024-10-23,2024-10-23
+DR-00000160,PT-001073,PNL-000601,VAR-000029,Dapsone,Other,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,PharmGKB,Clinical pharmacist,2024-01-06,2024-01-06
+DR-00000161,PT-001074,PNL-000101,VAR-000004,Irinotecan,Chemotherapy,Dosing,Standard response,Expected efficacy,,Standard dosing applies,DPWG guideline,Oncologist,2024-08-13,2024-08-13
+DR-00000162,PT-001075,PNL-000101,VAR-000002,Pembrolizumab,Chemotherapy,Dosing,Intermediate metaboliser,Slightly reduced clearance,,Reduce dose by 25% and monitor,FDA label,Sponsor,2022-06-30,2022-06-30
+DR-00000163,PT-001076,PNL-000501,VAR-000022,Irinotecan,Chemotherapy,Dosing,Poor metaboliser,Drug accumulation,,Reduce dose by 50%,Institutional protocol,Sponsor,2024-07-27,2024-07-27
+DR-00000164,PT-001076,PNL-000201,VAR-000010,Pravastatin,Other,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,PharmGKB,Oncologist,2023-03-17,2023-03-17
+DR-00000165,PT-001076,PNL-000201,VAR-000008,Clopidogrel,Anticoagulant,Toxicity,Increased sensitivity,Bleeding event,2,Avoid use — select alternative,Institutional protocol,Cardiologist,2024-01-28,2024-01-28
+DR-00000166,PT-001077,PNL-000601,VAR-000028,Dapsone,Other,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,FDA label,Sponsor,2023-12-17,2023-12-17
+DR-00000167,PT-001078,PNL-000201,VAR-000007,Codeine,Analgesic,Toxicity,Adverse reaction,Severe skin reaction,3,Discontinue and switch to alternative,Institutional protocol,Cardiologist,2024-05-29,2024-05-29
+DR-00000168,PT-001078,PNL-000201,VAR-000008,Omeprazole,Anticoagulant,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,PharmGKB,Cardiologist,2024-02-02,2024-02-02
+DR-00000169,PT-001079,PNL-000701,VAR-000035,Oxaliplatin,Chemotherapy,Efficacy,Standard response,No adverse events noted,,Standard dosing applies,CPIC guideline,Sponsor,2023-09-26,2023-09-26
+DR-00000170,PT-001079,PNL-000701,VAR-000033,Tamoxifen,Targeted therapy,Efficacy,Standard response,No adverse events noted,,Standard dosing applies,DPWG guideline,Cardiologist,2022-09-06,2022-09-06
+DR-00000171,PT-001080,PNL-000201,VAR-000008,Clopidogrel,Anticoagulant,Efficacy,Standard response,No adverse events noted,,Standard dosing applies,DPWG guideline,Cardiologist,2021-02-12,2021-02-12
+DR-00000172,PT-001080,PNL-000201,VAR-000007,Paroxetine,Analgesic,Toxicity,Increased sensitivity,Grade 3 myelosuppression,4,Avoid use — select alternative,PharmGKB,Oncologist,2024-03-02,2024-03-02
+DR-00000173,PT-001081,PNL-000401,VAR-000016,Amiodarone,Other,Efficacy,Normal metaboliser,Expected plasma levels,,Standard dosing applies,FDA label,Cardiologist,2024-02-19,2024-02-19
+DR-00000174,PT-001082,PNL-000801,VAR-000037,Cetuximab,Targeted therapy,Efficacy,Standard response,Expected efficacy,,Standard dosing applies,FDA label,Geneticist,2023-12-16,2023-12-16
+DR-00000175,PT-001083,PNL-000801,VAR-000036,Cetuximab,Targeted therapy,Efficacy,Reduced efficacy,Resistance,,Increase dose or switch agent,Institutional protocol,Geneticist,2024-05-21,2024-05-21
+DR-00000176,PT-001084,PNL-000301,VAR-000013,Capecitabine,Chemotherapy,Efficacy,Intermediate metaboliser,Borderline plasma levels,,Reduce dose by 25% and monitor,DPWG guideline,Clinical pharmacist,2020-07-13,2020-07-13
+DR-00000177,PT-001085,PNL-000801,VAR-000039,Oxaliplatin,Chemotherapy,Dosing,Standard response,Expected efficacy,,Standard dosing applies,FDA label,Geneticist,2024-02-22,2024-02-22
+DR-00000178,PT-001086,PNL-000201,VAR-000006,Warfarin,Anticoagulant,Toxicity,Increased sensitivity,Grade 3 myelosuppression,2,Avoid use — select alternative,PharmGKB,Sponsor,2024-08-16,2024-08-16
+DR-00000179,PT-001087,PNL-000501,VAR-000024,Irinotecan,Chemotherapy,Dosing,Poor metaboliser,Elevated plasma drug levels,,Reduce dose by 50%,CPIC guideline,Cardiologist,2023-07-26,2023-07-26
+DR-00000180,PT-001087,PNL-000501,VAR-000023,Fluorouracil,Chemotherapy,Dosing,Ultra-rapid metaboliser,Subtherapeutic plasma levels,,Consider alternative agent,Institutional protocol,Sponsor,2024-02-21,2024-02-21
+DR-00000181,PT-001088,PNL-000701,VAR-000034,Tamoxifen,Targeted therapy,Toxicity,Increased sensitivity,Bleeding event,1,Avoid use — select alternative,FDA label,Sponsor,2024-06-27,2024-06-27
+DR-00000182,PT-001088,PNL-000801,VAR-000039,Irinotecan,Chemotherapy,Dosing,Poor metaboliser,Elevated plasma drug levels,,Reduce dose by 50%,Institutional protocol,Sponsor,2023-07-29,2023-07-29
+DR-00000183,PT-001089,PNL-000701,VAR-000035,Oxaliplatin,Chemotherapy,Dosing,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,FDA label,Sponsor,2021-01-03,2021-01-03
+DR-00000184,PT-001090,PNL-000201,VAR-000008,Omeprazole,Anticoagulant,Efficacy,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,PharmGKB,Cardiologist,2024-01-03,2024-01-03
+DR-00000185,PT-001090,PNL-000801,VAR-000037,Cetuximab,Targeted therapy,Toxicity,Increased sensitivity,Bleeding event,1,Avoid use — select alternative,Institutional protocol,Oncologist,2023-09-26,2023-09-26
+DR-00000186,PT-001091,PNL-000701,VAR-000034,Rucaparib,Targeted therapy,Toxicity,Increased sensitivity,Grade 3 myelosuppression,3,Avoid use — select alternative,PharmGKB,Geneticist,2024-09-12,2024-09-12
+DR-00000187,PT-001091,PNL-000701,VAR-000034,Rucaparib,Targeted therapy,Efficacy,Ultra-rapid metaboliser,Treatment failure,,Consider alternative agent,PharmGKB,Sponsor,2024-07-04,2024-07-04
+DR-00000188,PT-001092,PNL-000301,VAR-000014,Fluorouracil,Chemotherapy,Dosing,Normal metaboliser,Normal clearance,,Standard dosing applies,CPIC guideline,Oncologist,2022-06-15,2022-06-15
+DR-00000189,PT-001093,PNL-000401,VAR-000019,Voriconazole,Anticoagulant,Efficacy,Standard response,No adverse events noted,,Standard dosing applies,PharmGKB,Sponsor,2022-11-02,2022-11-02
+DR-00000190,PT-001094,PNL-000801,VAR-000039,Oxaliplatin,Chemotherapy,Dosing,Ultra-rapid metaboliser,Rapid drug clearance,,Consider alternative agent,CPIC guideline,Oncologist,2020-12-18,2020-12-18
+DR-00000191,PT-001094,PNL-000801,VAR-000040,Fluorouracil,Chemotherapy,Dosing,Standard response,No adverse events noted,,Standard dosing applies,CPIC guideline,Sponsor,2023-12-10,2023-12-10
+DR-00000192,PT-001095,PNL-000301,VAR-000015,Paroxetine,Analgesic,Dosing,Normal metaboliser,Expected plasma levels,,Standard dosing applies,DPWG guideline,Cardiologist,2024-09-24,2024-09-24
+DR-00000193,PT-001095,PNL-000301,VAR-000013,Fluorouracil,Chemotherapy,Toxicity,Increased sensitivity,Bleeding event,2,Avoid use — select alternative,Institutional protocol,Geneticist,2023-12-10,2023-12-10
+DR-00000194,PT-001096,PNL-000401,VAR-000019,Clopidogrel,Anticoagulant,Toxicity,Adverse reaction,Peripheral neuropathy,3,Discontinue and switch to alternative,FDA label,Oncologist,2023-07-25,2023-07-25
+DR-00000195,PT-001096,PNL-000401,VAR-000018,Omeprazole,Anticoagulant,Dosing,Normal metaboliser,Expected plasma levels,,Standard dosing applies,DPWG guideline,Clinical pharmacist,2022-06-12,2022-06-12
+DR-00000196,PT-001097,PNL-000501,VAR-000022,Fluorouracil,Chemotherapy,Toxicity,Poor metaboliser,Elevated plasma drug levels,1,Reduce dose by 50%,FDA label,Sponsor,2021-07-01,2021-07-01
+DR-00000197,PT-001097,PNL-000501,VAR-000022,Irinotecan,Chemotherapy,Efficacy,Reduced efficacy,Subtherapeutic response,,Increase dose or switch agent,PharmGKB,Cardiologist,2023-02-06,2023-02-06
+DR-00000198,PT-001098,PNL-000101,VAR-000005,Trastuzumab,Targeted therapy,Efficacy,Reduced efficacy,Disease progression on therapy,,Increase dose or switch agent,FDA label,Oncologist,2021-10-21,2021-10-21
+DR-00000199,PT-001099,PNL-000801,VAR-000037,Cetuximab,Targeted therapy,Efficacy,Reduced efficacy,Resistance,,Increase dose or switch agent,DPWG guideline,Cardiologist,2021-05-06,2021-05-06
+DR-00000200,PT-001100,PNL-000701,VAR-000034,Tamoxifen,Targeted therapy,Toxicity,Adverse reaction,Grade 2 hepatotoxicity,2,Discontinue and switch to alternative,DPWG guideline,Clinical pharmacist,2021-09-10,2021-09-10
