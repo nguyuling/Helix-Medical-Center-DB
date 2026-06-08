@@ -14,8 +14,8 @@ data-case-pgx/
 ```
 | No. | File | Shape (Exc. header row) | Description |
 | --- | --- | --- | --- |
-| 1. | **`pgx_drug_response.csv`** | (200, 15) | Patient ID, drug info, outcome, phenotype observed etc. | (9, 12)
-| 2. | **`pgx_gene_panels.csv`** | Panel info, target genes, manufacturer etc. |
+| 1. | **`pgx_drug_response.csv`** | (200, 15) | Patient ID, drug info, outcome, phenotype observed etc. |
+| 2. | **`pgx_gene_panels.csv`** | (9, 12) | Panel info, target genes, manufacturer etc. |
 | 3. | **`pgx_patients.csv`** | (100, 15) | Patient basic info, medical info |
 | 4. | **`pgx_variants.csv`** | (40, 16) | Gene, chromosome, allelic variants etc. |
 
