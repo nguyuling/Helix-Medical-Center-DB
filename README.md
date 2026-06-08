@@ -1,4 +1,4 @@
-## Helix Medical Center Data Portal (SECB3213 Bioinformatics Database — Mini Project)
+## Helix Medical Center Data Portal
 - **Team Members:**
     | No. | Name | Metric No. |
     | --- | --- | --- |
