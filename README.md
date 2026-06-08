@@ -1,5 +1,11 @@
 # Helix-Medical-Center-DB
-SECB3213 Bioinformatics Database Mini Project
+**SECB3213 Bioinformatics Database Mini Project**
+**Team Member:**
+| No. | Name | Metric No. |
+| --- | --- | --- |
+| 1. | ALDANISHA MUADZ BINTI MUZAFFAR | A23CS0039 |
+| 2. | CHUA SHANG YEET | |
+| 3. | NGU YU LING | A23CS0149 |
 
 ## Deliverables
 | No. | Deliverables | File | Description |
