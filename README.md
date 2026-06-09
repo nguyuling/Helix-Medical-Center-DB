@@ -5,7 +5,7 @@ This is a Mini Project for the course SECB3213 Bioinformatics Database.
     | No. | Name | Metric No. |
     | --- | --- | --- |
     | 1. | ALDANISHA MUADZ BINTI MUZAFFAR | A23CS0039 |
-    | 2. | CHUA SHANG YEET | |
+    | 2. | CHUA SHANG YEET | A23CS0297 |
     | 3. | NGU YU LING | A23CS0149 |
 
 - **Mini Project Deliverables:**
